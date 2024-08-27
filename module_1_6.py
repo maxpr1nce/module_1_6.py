@@ -8,7 +8,7 @@ my_dict['Дмитрий'] = 1995
 my_dict['Елена'] = 1992
 print(my_dict)
 
-del my_dict['Петр']
+pop. my_dict['Петр']
 print(my_dict.get('Петр', 'Ключ не найден'))
 print(my_dict)
 
